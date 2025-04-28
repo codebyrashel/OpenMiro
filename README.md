@@ -41,11 +41,12 @@ Please see the LICENSE file for full details.
 
 ## 👥 Our Team
 
-<img src="https://avatars.githubusercontent.com/u/57950204?v=4" alt="image alt" width="150" height="150"/>
+<img src="https://avatars.githubusercontent.com/u/57950204?v=4" alt="First image" width="100"/>
 - SHOJIB AHMEED SADH
 - AL Shahed
 - Arny Samar (Bappyy)
 - Md Abdulla Al Masud
+<img src="https://avatars.githubusercontent.com/u/76257290?v=4" alt="Second image" width="100"/>
 - Md Atikul Islam
 - Sushmita Das
 

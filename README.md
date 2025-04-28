@@ -43,12 +43,18 @@ Please see the LICENSE file for full details.
 
 <img src="https://avatars.githubusercontent.com/u/57950204?v=4" alt="First image" width="100"/>
 - SHOJIB AHMEED SADH
+<img src="https://avatars.githubusercontent.com/u/163788370?v=4" alt="Third image" width="100"/>
 - AL Shahed
+<img src="https://avatars.githubusercontent.com/u/191702287?v=4" alt="Third image" width="100"/>
 - Arny Samar (Bappyy)
+<img src="https://avatars.githubusercontent.com/u/183744873?v=4" alt="Third image" width="100"/>
 - Md Abdulla Al Masud
 <img src="https://avatars.githubusercontent.com/u/76257290?v=4" alt="Second image" width="100"/>
 - Md Atikul Islam
+<img src="https://avatars.githubusercontent.com/u/158132118?v=4" alt="Second image" width="100"/>
 - Sushmita Das
+<img src="https://avatars.githubusercontent.com/u/106229451?v=4" alt="Second image" width="100"/>
+- MD Rifat hossain
 
 
 ---

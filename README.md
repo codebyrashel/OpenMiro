@@ -41,8 +41,7 @@ Please see the LICENSE file for full details.
 
 ## 👥 Our Team
 
-
-![image alt](https://avatars.githubusercontent.com/u/57950204?v=4)
+<img src="https://avatars.githubusercontent.com/u/57950204?v=4" alt="image alt" width="150" height="150"/>
 - SHOJIB AHMEED SADH
 - AL Shahed
 - Arny Samar (Bappyy)
